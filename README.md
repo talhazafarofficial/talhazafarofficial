@@ -8,8 +8,7 @@ Welcome to my GitHub portfolio! I'm currently pursuing my Bachelor's in Computer
 ## 💼 Projects
 
 ### 🔹 [BinaryBrains – AI Learning Platform](https://binarybrainsapp.vercel.app)
-> Next-generation learning platform that leverages AI-driven analytics and automation to deliver smarter quizzes, personalized feedback, and verified certificates.  
-> Built with Next.js, Tailwind CSS, MongoDB, and NextAuth, BinaryBrains empowers students and professionals to master new skills, track progress, and showcase achievements.
+> Next-generation learning platform that leverages AI-driven analytics and automation to deliver smarter quizzes, personalized feedback, and verified certificates. Built with Next.js, Tailwind CSS, MongoDB, and NextAuth, BinaryBrains empowers students and professionals to master new skills, track progress, and showcase achievements.
 
 ### 🔹 [CraveCrush – Fast Food Ordering App](https://cravecrush.vercel.app)
 > A modern, full-stack fast-food ordering web application with a robust admin dashboard, guest and registered user ordering, real-time notifications, image uploads, and a seamless cart & checkout experience.
