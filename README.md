@@ -7,6 +7,17 @@ Welcome to my GitHub portfolio! I'm currently pursuing my Bachelor's in Computer
 
 ## 💼 Projects
 
+### 🔹 [BinaryBrains – AI Learning Platform](https://binarybrainsapp.vercel.app)
+> Next-generation learning platform that leverages AI-driven analytics and automation to deliver smarter quizzes, personalized feedback, and verified certificates.  
+> Built with Next.js, Tailwind CSS, MongoDB, and NextAuth, BinaryBrains empowers students and professionals to master new skills, track progress, and showcase achievements.
+
+### 🔹 [CraveCrush – Fast Food Ordering App](https://cravecrush.vercel.app)
+> A modern, full-stack fast-food ordering web application with a robust admin dashboard, guest and registered user ordering, real-time notifications, image uploads, and a seamless cart & checkout experience.
+
+### 🔹 [EventHive – Event Management Platform](http://talhaameeroffical.pythonanywhere.com)
+> A modern, full-featured event management platform built with Django.  
+> Enables users to discover, organize, and manage events with ease, offering a seamless experience for both attendees and organizers.
+
 ### 🔹 [NextGen Scholars – Student Portal](https://nextgenscholars.vercel.app/)
 > Full-stack education portal using Next.js and MongoDB with secure auth, dynamic course data, and responsive UI.
 
@@ -20,6 +31,7 @@ Welcome to my GitHub portfolio! I'm currently pursuing my Bachelor's in Computer
 > Responsive Netflix-like front-end clone using HTML5, CSS3, Flexbox, and CSS Grid.
 
 ---
+
 
 ## 🛠️ Skills & Tools
 
